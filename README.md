@@ -1,6 +1,6 @@
 # Banking Transaction System
 
-This is a simple banking transaction system implemented in C. It allows users to perform transactions such as depositing money, withdrawing money, checking the account balance, viewing transaction history, and deleting the oldest transaction.
+This is a simple banking transaction system implemented in C using queue Data Structure. It allows users to perform transactions such as depositing money, withdrawing money, checking the account balance, viewing transaction history, and deleting the oldest transaction.
 
 ## Features
 
